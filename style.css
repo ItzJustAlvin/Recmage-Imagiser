@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(180, 231, 180);
+    color: rgb(5, 24, 5);
+}
+
+.heading {
+    width: 80%;
+    font-size: 25px;
+}
+
+#webcam_view {
+    font-size: 17.7777777px;
+}
+
+#camera, #result {
+    border: 2px dashed rgb(29, 46, 36);
+    border-radius: 20px;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name, #result_object_accuracy {
+    color:rgb(81, 105, 81)
+}
